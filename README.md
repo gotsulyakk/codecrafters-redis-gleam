@@ -1,10 +1,14 @@
 # Redis starter in Gleam
 This repository contains starter code for redis implementation in gleam programming language. It contains solution for the first 5 stages of redis course track on codecrafters.io. 
 
-The goal of this repository was to start learning gleam programming language while replicating REsp protocol basics. 
+The goal of this repository was to start learning gleam programming language while replicating Redis Serialization Protocol (RESP) basics. 
 
 Pretty much the entire solution is taken from 
 Louis Pilfold's (author of gleam) [video](https://www.youtube.com/live/_lDjzVmWsWg?si=hZZEBvKlu71D_rRI)
+
+Solutions implemented:
+- simple ping
+- echo command
 
 
 [![progress-banner](https://backend.codecrafters.io/progress/redis/7c30e70d-d147-4310-9be4-2dee2dd1060c)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
